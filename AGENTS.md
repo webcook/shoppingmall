@@ -102,3 +102,4 @@ export function MyComponent() {
 3. ✅ **일관된 디자인 시스템 유지** - new-york 스타일 기반
 4. ✅ **Tailwind CSS 활용** - shadcn/ui와 함께 사용
 
+
